@@ -1,6 +1,6 @@
 package test1;
 import java.util.Scanner;
-public class AddMatrices
+public class AddingMatrices
 {
     public static void main(String[] args) 
     {
